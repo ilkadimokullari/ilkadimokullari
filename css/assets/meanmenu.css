@@ -27,7 +27,7 @@ a.meanmenu-reveal {
 }
 .mean-container .mean-bar::before {
   color: #ffffff;
-  content: "menu";
+  content: "menü";
   font-size: 15px;
   font-weight: 700;
   right: 50px;
@@ -184,7 +184,7 @@ a.meanmenu-reveal {
     content: "";
     width: 120px;
     height: 50px;
-    background: url("../../images/logo.png") no-repeat;
+    background: url("../../images/logo2.png") no-repeat;
     display: inline-block;
     position: absolute;
     z-index: 9999;
